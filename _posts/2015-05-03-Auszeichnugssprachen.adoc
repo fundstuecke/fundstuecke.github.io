@@ -3,4 +3,13 @@
 
 == MarkDown
 
+http://daringfireball.net/projects/markdown/syntax
+
+
 == Textile
+
+http://txstyle.org/
+
+== rST - reStruturedText
+
+http://docutils.sourceforge.net/rst.html
