@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "fundstuecke",
-    "repositoryName": "fundstuecke.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"fundstuecke","repositoryName":"fundstuecke.github.io","branch":"master"},"site":{"title":"Fundstücke","description":"Alles Mögliche, was mir hier oder dort so über den Weg gelaufen oder ins Auge gesprungen ist ...","url":"https://fundstuecke.github.io"},"socialnetwork":{},"theme":{"name":"Saga","url":"//fundstuecke.github.io/themes/Saga"}}
