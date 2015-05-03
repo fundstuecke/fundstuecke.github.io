@@ -1,4 +1,4 @@
-= Auszeichnugssprachen
+= Auszeichnungssprachen
 :hp-tags: Auszeichnungssprachen
 
 == MarkDown
