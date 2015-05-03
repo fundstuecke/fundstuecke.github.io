@@ -5,3 +5,4 @@ Mir gefällt es, die einzelnen Seiten und Zutaten von Blogeinträgen einfach als
 
 == Erste Überschrift
 
+Bei Hubpress wird AsciiDoc und nicht MarkDown genutzt. Ich denke mal, das ähnelt sich doch.
