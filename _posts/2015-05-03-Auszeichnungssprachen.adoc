@@ -20,6 +20,8 @@ http://docutils.sourceforge.net/rst.html
 
 http://www.methods.co.nz/asciidoc/
 
+Übersicht über die Syntax: http://powerman.name/doc/asciidoc
+
 == Konvertierungstools
 
 === pandoc
