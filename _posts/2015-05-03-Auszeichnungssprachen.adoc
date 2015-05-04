@@ -1,6 +1,8 @@
 = Auszeichnungssprachen
 :hp-tags: Auszeichnungssprachen
 
+Hier eine Sammlung von verschiedenen einfachen Methoden, um einen Text später formatieren zu können, ihn aber doch einfach auch als normalen Text lesen zu können.
+
 == MarkDown
 
 http://daringfireball.net/projects/markdown/syntax
@@ -13,3 +15,15 @@ http://txstyle.org/
 == rST - reStruturedText
 
 http://docutils.sourceforge.net/rst.html
+
+== AsciiDoc
+
+http://www.methods.co.nz/asciidoc/
+
+== Konvertierungstools
+
+=== pandoc
+
+http://pandoc.org/
+
+Pandoc erzeugt aus einer (fast) beliebigen Auszeichnungssprache ein anderes Anzeigeformat für den eingegebenen Text.
