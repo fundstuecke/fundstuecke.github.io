@@ -17,3 +17,6 @@ https://cloud.openmailbox.org/index.php/s/Y1lKtkOo5RP2qJ3
 Auch Ordner lassen sich als Link und mit Passowrt freigeben.
 
 eman@openmailbox.org
+
+Die OwnCloud bringt auch einen Kalender mit.
+Die Mail ein Adressbuch.
