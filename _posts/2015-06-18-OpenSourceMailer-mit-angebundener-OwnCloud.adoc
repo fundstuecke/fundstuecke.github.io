@@ -19,4 +19,5 @@ Auch Ordner lassen sich als Link und mit Passowrt freigeben.
 eman@openmailbox.org
 
 Die OwnCloud bringt auch einen Kalender mit. +
-Die Mail ein Adressbuch.
+Die Mail hat ein Adressbuch.
+Und ein https://de.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol[XMPP] Server läuft auch noch mit dem gleichen Login :-)
