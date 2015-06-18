@@ -1,0 +1,13 @@
+= OpenSourceMailer mit angebundener OwnCloud
+
+= OpenSourceMailer mit angebundener OwnCloud
+
+durch Zufall bin ich heute über https://www.openmailbox.org gestolpert.
+Das ist ein Mail-Anbieter, der auch gleich noch einen OwnCloud-Server für einen Nutzer betreibt.
+So lassen sich einfach Dokumente, Bilder usw zur eigenen OwnCloud hochladen und per Link verteilen.
+
+https://cloud.openmailbox.org/index.php/s/zJUbMqO8XccFP5u
+
+Und der Link lässt sich durch ein Passwort schützen und ein Ablaufdatum auch angeben.
+
+enam@openmailbox.org
