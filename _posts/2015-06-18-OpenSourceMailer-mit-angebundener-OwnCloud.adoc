@@ -9,5 +9,9 @@ So lassen sich einfach Dokumente, Bilder usw zur eigenen OwnCloud hochladen und 
 https://cloud.openmailbox.org/index.php/s/zJUbMqO8XccFP5u
 
 Und der Link lässt sich durch ein Passwort schützen und ein Ablaufdatum auch angeben.
+Wird die Freigabe gelöscht, ist der Link ungültig.
+Und bei einer erneuten Freigabe des gleichen Objekts wird ein neuer Link erzeugt und der alte Link bleibt ungültig.
+
+Auch Ordner lassen sich als Link und mit Passowrt freigeben.
 
 eman@openmailbox.org
